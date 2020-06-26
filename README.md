@@ -1,2 +1,2 @@
 # Important-Notes
-Some Topics related to Software Development
+<p class="text-center">Some Topics related to Software Developmen</p>
