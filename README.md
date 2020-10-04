@@ -1,5 +1,10 @@
 # Important-Notes
  Some Topics related to Software Developmen
+ 
+# Special Note 
+[written by jalal Uddin CEO of DevSKill]
+এমন কিছু বই যা সব প্রোগ্রামারের পড়া উচিৎ
+http://blog.devskill.com/some-must-read-books-for-programmers/?fbclid=IwAR3sxfDnOynIUqHECBGIlSGHoFPkQMV26nRGSnnO7g6MLRCn4O7e9EYLaOs
 
 # Note:1 
 (written by jalal Uddin CEO of DevSKill)
